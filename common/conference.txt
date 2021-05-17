@@ -1,0 +1,7 @@
+- AAAI: https://www.aaai.org/Library/AAAI/aaai-library.php
+- NeurIPS(NIPS): https://proceedings.neurips.cc/
+- ICLR: https://iclr.cc/
+- ICML: https://icml.cc/
+- CVPR: https://openaccess.thecvf.com/
+- ICCV: https://openaccess.thecvf.com/
+- ECCV: https://www.ecva.net/papers.php
